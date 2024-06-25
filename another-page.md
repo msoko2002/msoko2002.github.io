@@ -1,11 +1,6 @@
 ---
 layout: default
 title: Another page
-description: This is just another page
+description: This page is under construction
 ---
-
-## Welcome to another page
-
-_yay_
-
 [back](./)
