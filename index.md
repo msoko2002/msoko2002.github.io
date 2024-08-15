@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Max Sokolova
+description: Math and Physics Enjoyer.
 ---
 
 # Who am I? 
